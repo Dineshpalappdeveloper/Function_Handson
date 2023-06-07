@@ -1,0 +1,42 @@
+.parent{
+    /* background-color: aqua; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: repeating-linear-gradient(45deg,rgb(239, 158, 158),rgb(164, 164, 179),rgb(90, 231, 90),rgb(245, 245, 148) 20%);
+}
+.headindigTop{
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 4px -2px yellow;
+}
+h2,.pre{
+    color: red;
+    font-family: cursive;
+
+}
+pre{
+    margin: 20px;
+    font-size: 25px;
+    color: green;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+.answer{
+    display: flex;
+    margin-left: 30px;
+}
+.output{
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
